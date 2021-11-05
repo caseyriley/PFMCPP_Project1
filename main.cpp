@@ -54,83 +54,83 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  1)
 //  Noun:
 //  action 1:
-
+speaker.blastMusic();
 //  action 2:
-
+speaker.powerOff();
 //  action 3:
-
+speaker.changeVolume();
 //  2)
 //  Noun:
 //  action 1:
-
+fan.on();
 //  action 2:
-
+fan.off();
 //  action 3:
-
+fan.rotate();
 //  3)
 //  Noun:
 //  action 1:
-
+monitor.selectHDMI();
 //  action 2:
-
+monitor.selectBluetooth();
 //  action 3:
-
+monitor.selectUSBC();
 //  4)
 //  Noun:
 //  action 1:
-
+cat.run();
 //  action 2:
-
+cat.jump();
 //  action 3:
-
+cat.sleep();
 //  5)
 //  Noun:
 //  action 1:
-
+dog.bark();
 //  action 2:
-
+dog.dig();
 //  action 3:
-
+dog.eat();
 //  6)
 //  Noun:
 //  action 1:
-
+tree.grow();
 //  action 2:
-
+tree.branch();
 //  action 3:
-
+tree.photosynthesize();
 //  7)
 //  Noun:
 //  action 1:
-
+tacoTruck.makeTaco();
 //  action 2:
-
+tacoTruck.drive();
 //  action 3:
-
+tacoTruck.makeChange();
 //  8)
 //  Noun:
 //  action 1:
-
+heater.high();
 //  action 2:
-
+heater.medium();
 //  action 3:
-
+heater.low();
 //  9)
 //  Noun:
 //  action 1:
-
+airPurifier.on();
 //  action 2:
-
+airPurifier.off();
 //  action 3:
-
+airPurifier.nextSpeed();
 //  10)
 //  Noun:
 //  action 1:
-
+bird.chirp();
 //  action 2:
-
+bird.fly();
 //  action 3:
-
+bird.perch();
 
 
 #endif
