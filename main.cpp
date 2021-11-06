@@ -125,12 +125,12 @@ airPurifier.off();
 airPurifier.nextSpeed();
 //   bird 10)
 //  Noun:
-//  action 1: the bird chirps
-bird.chirp();
-//  action 2: the bird flys
-bird.fly();
-//  action 3: the bird perches
-bird.perch();
+//  action 1: the smallBird sings loud
+smallBird.singsLoud();
+//  action 2: the smallBird flys high
+smallBird.flysHigh();
+//  action 3: the smallBird eats seeds
+smallBird.eatsSeeds();
 
 
 #endif
